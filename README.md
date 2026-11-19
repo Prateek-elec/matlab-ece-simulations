@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 Why it hits different
+## Highlights
 
 - 📈 **One concept per level:** the diode course adds exactly one new physical effect at a time, from Shockley to reverse recovery.
 - 🛰️ **See Wi-Fi bounce around a room:** 3D rays, reflections, path loss, SNR and delay spread per receiver.
@@ -74,7 +74,7 @@ The original scripts didn't run as-is. These changes were made so they do:
 
 <div align="center">
 
-### If this made you go *"wait, that's sick"* 👀
+### Found this useful?
 
 **Drop a ⭐ so more students find it, and share it with someone learning electronics.**
 

@@ -1,0 +1,8 @@
+*.asv
+*.autosave
+slprj/
+*.slxc
+*.mexw64
+Thumbs.db
+desktop.ini
+.claude/

@@ -7,6 +7,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2026a-E16737?style=for-the-badge)
 ![Devices](https://img.shields.io/badge/semiconductor-device%20physics-8b5cf6?style=for-the-badge)
 ![RF](https://img.shields.io/badge/RF-ray%20tracing-0ea5e9?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
 
 </div>
 
@@ -65,10 +66,20 @@ The original scripts didn't run as-is. These changes were made so they do:
 
 **Small things still worth polishing:** Level 4's "log scale" panel uses a linear axis, and a few legends show leftover `data1…` entries.
 
+## License
+
+[MIT](LICENSE) © Prateek Sarkar
+
 ---
 
 <div align="center">
 
-**Built with ☕ and solder by [@Prateek-elec](https://github.com/Prateek-elec)**
+### If this made you go *"wait, that's sick"* 👀
+
+**Drop a ⭐ so more students find it, and share it with someone learning electronics.**
+
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Learn%20diode%20physics%20and%20Wi-Fi%20propagation%20by%20watching%20MATLAB%20simulate%20them%20%F0%9F%93%88&url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fmatlab-ece-simulations)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fmatlab-ece-simulations)
+[![Follow](https://img.shields.io/badge/follow-@Prateek--elec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-elec)
 
 </div>
